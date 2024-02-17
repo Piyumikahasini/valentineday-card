@@ -52,15 +52,15 @@ body{
 
 }
 
-/*.front::before{*/
-/*    position: absolute;*/
-/*    content: '';*/
-/*    border-left: 300px solid #fda996;*/
-/*    border-top:195px solid transparent;*/
-/*    left: -120px;*/
-/*    top: -95px;*/
+.front::before{
+    position: absolute;
+    content: '';
+    border-left: 300px solid #fda996;
+    border-top:195px solid transparent;
+    left: -120px;
+    top: -95px;
 
-/*}*/
+}
 
 /*.card{*/
 /*    position: relative;*/
