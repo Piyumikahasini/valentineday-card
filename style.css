@@ -62,17 +62,17 @@ body{
 
 }
 
-/*.card{*/
-/*    position: relative;*/
-/*    width: 250px;*/
-/*    height: 190px;*/
-/*    background: #fff;*/
-/*    border-radius: 2px;*/
-/*    display: grid;*/
-/*    place-items: center;*/
-/*    transition: 1s;*/
+.card{
+    position: relative;
+    width: 250px;
+    height: 190px;
+    background: #fff;
+    border-radius: 2px;
+    display: grid;
+    place-items: center;
+    transition: 1s;
 
-/*}*/
+}
 
 /*.card::before{*/
 /*    content: '';*/
