@@ -74,61 +74,61 @@ body{
 
 }
 
-/*.card::before{*/
-/*    content: '';*/
-/*    position: absolute;*/
-/*    top: 10px;*/
-/*    left: 10px;*/
-/*    right: 10px;*/
-/*    bottom: 10px;*/
-/*    border: 2px solid #001049;*/
-/*    border-style: dashed;*/
+.card::before{
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+    border: 2px solid #001049;
+    border-style: dashed;
 
-/*}*/
-/*.valentines:hover .card{*/
-/*    transform: translateY(-100px);*/
+}
+.valentines:hover .card{
+    transform: translateY(-100px);
 
-/*}*/
+}
 
-/*.card .text{*/
-/*    font-family: 'Brush Script MT',cursive;*/
-/*    font-size: 20px;*/
-/*    text-align: center;*/
-/*    line-height: 24px;*/
-/*    color: #003049;*/
+.card .text{
+    font-family: 'Brush Script MT',cursive;
+    font-size: 20px;
+    text-align: center;
+    line-height: 24px;
+    color: #003049;
 
-/*}*/
-/*.card .heart{*/
-/*    position: relative;*/
-/*    width: 35px;*/
-/*    height: 35px;*/
-/*    background: red;*/
-/*    bottom: 20px;*/
-/*    transform: rotate(45deg);*/
-/*    border-radius: 50% 0 0 50%;*/
+}
+.card .heart{
+    position: relative;
+    width: 35px;
+    height: 35px;
+    background: red;
+    bottom: 20px;
+    transform: rotate(45deg);
+    border-radius: 50% 0 0 50%;
 
-/*}*/
+}
 
-/*.card .heart::before{*/
-/*    content: '';*/
-/*    position: absolute;*/
-/*    width: 100%;*/
-/*    height: 100%;*/
-/*    background: red;*/
-/*    border-radius: 0 50% 50% 0;*/
-/*    right: 0;*/
-/*    transform: rotate(-90deg);*/
-/*    transform-origin: top;*/
+.card .heart::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: red;
+    border-radius: 0 50% 50% 0;
+    right: 0;
+    transform: rotate(-90deg);
+    transform-origin: top;
 
-/*}*/
+}
 
-/*.card .heart::after{*/
-/*    content: '';*/
-/*    position: absolute;*/
-/*    width: 100%;*/
-/*    height: 100%;*/
-/*    background: red;*/
-/*    right: -18px;*/
+.card .heart::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: red;
+    right: -18px;
 
 
-/*}*/
+}
