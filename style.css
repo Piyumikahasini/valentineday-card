@@ -1,10 +1,10 @@
-/*body{*/
-/*    display: grid;*/
-/*    place-items: center;*/
-/*    min-height: 100vh;*/
-/*    background: ghostwhite;*/
+body{
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    background: ghostwhite;
 
-/*}*/
+}
 /*.container{*/
 /*    position: relative;*/
 
