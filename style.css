@@ -17,15 +17,15 @@ body{
     animation: up 3s linear infinite;
 }
 
-/*.envelope{*/
-/*    position: relative;*/
-/*    width: 300px;*/
-/*    height: 200px;*/
-/*    background: deeppink;*/
-/*    display: grid;*/
-/*    place-items: center;*/
+.envelope{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    background: deeppink;
+    display: grid;
+    place-items: center;
 
-/*}*/
+}
 
 /*.envelope::before{*/
 /*    content: '';*/
