@@ -2,7 +2,7 @@
 This project demonstrates an animated envelope using HTML, CSS, and JavaScript. Clicking on the envelope reveals a hidden letter inside.
 
 ## Demo
-- You can see the animation in action here: [Demo Link](https://your-demo-link.com)
+- You can see the animation in action here: [Demo Link]https://github.com/Piyumikahasini/valentineday-card.git
 
 ## Project Structure
 - `index.html`: The main HTML file containing the structure of the envelope.
