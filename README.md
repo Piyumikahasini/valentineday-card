@@ -10,10 +10,7 @@ This project demonstrates an animated envelope using HTML, CSS, and JavaScript. 
 - `script.js`: The JavaScript file for handling the click event to open and close the envelope.
 
 ## License
-
-
-
-
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 <img width="325" alt="Capture" src="https://github.com/Piyumikahasini/valentineday-card/assets/125721766/c226086e-2b80-4e67-a8ee-c8786c47f968">
